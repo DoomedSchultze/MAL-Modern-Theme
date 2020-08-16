@@ -1,0 +1,25 @@
+:root{
+    /*--- Foreground ---*/
+    --visited: #2b2a2a;
+    --navtext: #aaa;
+    --contenttext: #fff;
+    /*--- Background ---*/
+    --bg: rgb(26, 26, 26);
+    --bglight: rgb(35,35,35);
+    --pagebg: rgb(42,42,42);
+    --searchbg: rgba(0,0,0,.08);
+    --nav: #2d2d2d;
+    /*- Makes the scrollbar background darker -*/
+    background-color: var(--bg);
+    /*--- Accents ---*/
+    --hover: rgba(255,255,255,.3);
+    --textdec: #37d0d2;
+    --price: rgb(28, 229, 255);
+    --border: #403f3f;
+    /*--- Shadows ---*/
+    --searchshadow: 0 15px 15px rgba(0,0,0,.2);
+    --shadow: 0 5px 10px rgba(0,0,0,.2);
+    /*--- Background Images ---*/
+    --profilebg: url(https://i.imgur.com/6yD4YCi.jpg);
+    --entrybg: url(https://i.imgur.com/6yD4YCi.jpg);
+}
